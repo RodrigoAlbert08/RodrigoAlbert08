@@ -12,7 +12,7 @@ Este proyecto es una herramienta interactiva en HTML, CSS y JavaScript para gene
 
 ## 🚀 Cómo usar
 
-1. Abrí el archivo `ETIQUETA V1.9.html` en tu navegador.
+1. Abrí el archivo `ETIQUETA V2.3(Mejorado).html` en tu navegador.
 2. Completá los datos del envío.
 3. Agregá los talles.
 4. Hacé clic en **Generar Etiquetas**.
